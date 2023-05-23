@@ -6,4 +6,4 @@ add_executable(my_cmake ${dir_src})
 target_link_libraries(my_cmake m pthread)
 
 
-
+vvvvvvvvvvvvvv
