@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/my_cmake.dir/src/main.c.o  -o my_cmake -lm -lpthread 

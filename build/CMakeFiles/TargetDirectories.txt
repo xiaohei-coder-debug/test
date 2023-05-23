@@ -1,0 +1,3 @@
+/home/maxl/project/ceshi/build/CMakeFiles/rebuild_cache.dir
+/home/maxl/project/ceshi/build/CMakeFiles/my_cmake.dir
+/home/maxl/project/ceshi/build/CMakeFiles/edit_cache.dir
