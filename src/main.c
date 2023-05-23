@@ -5,6 +5,6 @@ int main()
 {
     double val=1210121.9;
     int tem=log2(val);
-    printf("%d\n",tem);
+    printf("sssssssssssssssssssssssssss%d\n",tem);
     return 0;
 }
